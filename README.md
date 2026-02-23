@@ -1,16 +1,46 @@
 ## Hi there 👋
 
-<!--
-**merouaamrt/merouaamrt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">👋 Bonjour, moi c’est Meroua</h1>
 
-Here are some ideas to get you started:
+<p align="center">
+Étudiante en Data Science · Lyon 🇫🇷 <br/>
+Transformer les données en insights utiles.
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+<a href="https://merouaportfolio.netlify.app/">🌐 Portfolio</a> •
+<a href="https://www.linkedin.com/in/meroua">💼 LinkedIn</a> •
+<a href="https://github.com/merouaamrt">🐙 GitHub</a>
+</p>
+
+---
+
+## À propos de moi
+
+Étudiante en Master Informatique — Science des Données, je m’intéresse particulièrement à l’analyse de données et à la Business Intelligence.  
+J’aime explorer les datasets, construire des dashboards clairs et développer des solutions data-driven.
+
+---
+
+## Ce que je fais
+
+📊 Analyse & visualisation de données   
+🐍 Projets data avec Python  
+🌐 Développement web
+📈 Business Intelligence 
+
+---
+
+
+
+---
+
+## Compétences
+
+Data Science · Business Intelligence · Python · SQL · Power BI · Visualisation de données, dev web 
+
+---
+
+<p align="center">
+📩 m.amirat@univ-lyon2.fr
+</p>
