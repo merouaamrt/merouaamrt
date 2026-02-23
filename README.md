@@ -1,4 +1,4 @@
-## Hi there 👋
+
 
 <h1 align="center">👋 Bonjour, moi c’est Meroua</h1>
 
@@ -27,6 +27,7 @@ J’aime explorer les datasets, construire des dashboards clairs et développer 
 📊 Analyse & visualisation de données   
 🐍 Projets data avec Python  
 🌐 Développement web
+
 📈 Business Intelligence 
 
 ---
